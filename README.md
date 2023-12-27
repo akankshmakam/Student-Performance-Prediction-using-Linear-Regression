@@ -19,7 +19,7 @@ This repository contains the implementation of a simple Linear Regression model 
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/akankshmakam/Student-Performance-Prediction-using-Linear-Regression
+git clone https://github.com/akankshmakam/Student-Performance-Prediction-using-Linear-Regression.git
 cd Student-Performance-Prediction-using-Linear-Regression
 ```
 
